@@ -2,8 +2,8 @@
 const Aside = function() {
     return (
        <div className="aside">
-            <h1 className="text">Seja bem-vindo!</h1>
-            <h2 className="text">Este site está sendo desenvolvido com muito empenho e dedicação.</h2>
+            <h1 className="text">Em Breve!</h1>
+            <h2 className="text">Formação continua para novos desenvolvedores.</h2>
        </div>
     )
 }
